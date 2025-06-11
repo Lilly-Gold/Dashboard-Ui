@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Role-Based Dashboard</title>
+  <style>
+    body{
+      font-family: Arial,sans-serif;
+      margin: 20px;
+      padding: 20px;
+      background-color: #f4f4f4
+    }
+    .dashboard{border:2px solid #333;margin: 20px 0;padding:20px; }
+    .admin {border-color: #e74c3c;}
+    .editor {border-color: 3498db;}
+    .visitor {border-color: #2ecc71;}
+    nav ul {list-style: none;
+    padding:0; display: flex; gap: 20px;}
+    nav a {text-decoration:none; padding: 10px; background: #f4f4f4;}
+    table {width: 100%;
+    border-collapse: collapse; margin: 20px 0;}
+    th,td {border: 1px solid #ddd;
+    padding: 10px; text-align: left;}
+    form {margin: 20px 0;}
+    input,select,textarea {margin:5px; padding: 8px;}
+     section {margin: 20px 0;}
+
+  </style>
+</head>
+<body>
+  <header>
+   <h1>Admin Dashboard</h1>
+   <p>Full system access and management capabilities</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#users"></a>User Management</li>
+      <li><a href="#content"></a>Content Control</li>
+      <li><a href="#settings"></a>System Settings</li>
+      <li><a href="reports"></a>Analytics</li>
+
+    </ul>
+  </nav>
+  <section id="user-management">
+    <h2>user-management</h2>
+    <form>
+      <fieldset>
+        <legend>Add New user</legend>
+        <label>username: <input type="text" name="username" required></label>
+          <label>Email: <input type="email" name="email" required placeholder="example@gmail.com"></label>
+          <label>Role:
+            <select name="role">
+              <option value="admin">Admin</option>
+              <option value="editor">Editor</option>
+              <option value="visitor">Visitor</option>
+            </select>
+          </label>
+          <button type="submit">Create User</button>
+
+      </fieldset>
+    </form>
+
+  </section>
+</body>
+</body>
+</html>
