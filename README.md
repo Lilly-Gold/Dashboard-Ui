@@ -73,10 +73,10 @@
  
 ## Contact
 
- Created with love by [Lilly-Gold]
+ Created with love by [Lydia]
  
- - GitHub: [@yourusername](https://github.com/yourusername)
- - Email: [your.emailexample.com](mailto:your.email@example.com)
+ - GitHub: [@yourusername](Lilly-Gold)
+ - Email: [your.emailexample.com](lydiakaze6@gmail.com)
 
 ## Acknowledgments
 
