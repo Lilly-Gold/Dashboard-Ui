@@ -32,7 +32,7 @@
  - Role-based access to different dashboard: Admin, Editor, and Visitor.
  - Admin Dashboard: User management, site settings and reports.
  - Editor Dashboard: Create and edit articles, media library.
- - Visistor Portal: View public content and contact form.
+ - Vistor Portal: View public content and contact form.
  - Fully reponsive layout.
  - Acessible navigation and content.
 
@@ -45,7 +45,7 @@
  ```bash
  git clone https://github.com/yourusername/multi-role-web-portal.git
  cd multi-role-web-portal
-
+```
  No build step required. Just open index.html in your browser.
 
 ## Usage
