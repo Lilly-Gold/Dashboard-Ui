@@ -24,6 +24,60 @@
 
    - [Acknowledgments](#acknowledgments)
 
+## Live Demo
+ > [Click here to view the live version](#)
+ >*(Replace `#` with your live project URL once deployed)*
 
+## Features 
+ - Role-based access to different dashboard: Admin, Editor, and Visitor.
+ - Admin Dashboard: User management, site settings and reports.
+ - Editor Dashboard: Create and edit articles, media library.
+ - Visistor Portal: View public content and contact form.
+ - Fully reponsive layout.
+ - Acessible navigation and content.
 
+## Technology Used
 
+ - HTML5 (semantic elements, forms, native APIs)
+
+## Installation 
+
+ ```bash
+ git clone https://github.com/yourusername/multi-role-web-portal.git
+ cd multi-role-web-portal
+
+ No build step required. Just open index.html in your browser.
+
+## Usage
+ Simply navigate through sections like:
+ - select your role from the home page to access the respective dashboard.
+ - Admin: Manage users, configure site settings, and view reports.
+ - Editor: Create and edit articles, manage media library.
+ - Visitor: View public content and use the contactg form to send messages.
+
+## Project Structure 
+
+ multi-role-web-portal/
+ |- index.html
+ |- admin.html
+ |- editor.html
+ |- visitor.html
+
+## Contributing
+
+  PRs are welcome! Please fork the repository and open a pull request with a detailed 
+  message. For major changes, open an issue first.
+
+## License
+ [MLT License](https://github.com/yourusername/multi-role-web-portal/LICENSE)
+ 
+## Contact
+
+ Created with love by [Lilly-Gold]
+ 
+ - GitHub: [@yourusername](https://github.com/yourusername)
+ - Email: [your.emailexample.com](mailto:your.email@example.com)
+
+## Acknowledgments
+
+ - Layout inspired by modern web portal designs.
