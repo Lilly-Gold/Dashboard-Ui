@@ -1,4 +1,4 @@
-n# Multi- Role Web portal Template
+# Multi- Role Web portal Template
    A web portal template designe to cater to different user roles such as Admin,
    Editor, and Visitor. This template is built using pure HTML without CSS or
    Javascript.
