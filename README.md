@@ -1,4 +1,4 @@
-# Multi- Role Web portal Template
+n# Multi- Role Web portal Template
    A web portal template designe to cater to different user roles such as Admin,
    Editor, and Visitor. This template is built using pure HTML without CSS or
    Javascript.
@@ -75,8 +75,8 @@
 
  Created with love by [Lydia]
  
- - GitHub: [@yourusername](Lilly-Gold)
- - Email: [your.emailexample.com](lydiakaze6@gmail.com)
+ - GitHub: (Lilly-Gold)
+ - Email: (lydiakaze6@gmail.com)
 
 ## Acknowledgments
 
